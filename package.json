@@ -1,6 +1,6 @@
 {
   "name": "azbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a Telegram bot easier than before.",
   "engines": {
     "node": "6.11.1"
@@ -24,7 +24,13 @@
     "url": "https://github.com/meness/azbot"
   },
   "keywords": [
-    "azbot", "nodejs", "telegram", "bot", "node", "express", "heroku"
+    "azbot",
+    "nodejs",
+    "telegram",
+    "bot",
+    "node",
+    "express",
+    "heroku"
   ],
   "license": "MIT"
 }
