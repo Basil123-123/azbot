@@ -15,8 +15,7 @@ AZbot is a [Node.js](https://nodejs.org/) application using [Express](https://ex
 
 ## Prerequisites
 * Installed [Heroku CLI](https://cli.heroku.com/)
-* Installed [Node.js](https://nodejs.org/)
-* Installed npm
+* Installed [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 
 ## Run
 
