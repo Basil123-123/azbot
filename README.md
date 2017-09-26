@@ -1,8 +1,9 @@
 # AZbot
-[![npm](https://img.shields.io/npm/dt/meness/azbot.svg)]()
-[![npm](https://img.shields.io/npm/v/meness/azbot.svg)]()
+[![npm](https://img.shields.io/npm/dt/meness/azbot.svg)](https://www.npmjs.com/package/azbot)
+[![npm](https://img.shields.io/npm/v/meness/azbot.svg)](https://www.npmjs.com/package/azbot)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/meness/azbot)
-Create Telegram bots as easy as cloning this repository. AZbot is a nodejs application using [Express 4](http://expressjs.com/) and [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/).
+
+AZbot is a [Node.js](https://nodejs.org/en/) application using [Express](https://expressjs.com/) and [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/).
 
 ## Highlights
 * Easy to use
