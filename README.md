@@ -27,7 +27,7 @@ $ npm install
 ```
 
 ### BotFather & Token
-Create your bot using BotFather and save the given token in `.env` for `BOT_TOKEN` key.
+Create a new bot with [BotFather](https://telegram.me/BotFather), set the given token for `BOT_TOKEN` key in `.env` file, then save file.
 
 ### Start the Bot
 ```sh
