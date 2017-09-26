@@ -3,20 +3,20 @@
 [![npm](https://img.shields.io/npm/v/meness/azbot.svg)](https://www.npmjs.com/package/azbot)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/meness/azbot)
 
-AZbot is a [Node.js](https://nodejs.org/en/) application using [Express](https://expressjs.com/) and [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/).
+AZbot is a [Node.js](https://nodejs.org/) application using [Express](https://expressjs.com/) and [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/).
 
 ## Highlights
 * Easy to use
-* nodejs performance
-* node-telegram-bot-api as the Telegram bot API for nodejs
-* Using express 4
-* good documentation
-* deploy to heroku
+* [Node.js](https://nodejs.org/)
+* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/)
+* [Express](https://expressjs.com/)
+* Good documentation
+* Deploying on Heroku
 
 ## Prerequisites
-* Installed [Heroku CLI](https://cli.heroku.com/
-* Installed [Node.js](http://nodejs.org/)
-* Installed NPM
+* Installed [Heroku CLI](https://cli.heroku.com/)
+* Installed [Node.js](https://nodejs.org/)
+* Installed npm
 
 ## Run
 
@@ -25,7 +25,6 @@ AZbot is a [Node.js](https://nodejs.org/en/) application using [Express](https:/
 $ git clone git@github.com:meness/azbot.git AZbot
 $ cd AZbot
 $ npm install
-$ npm start
 ```
 
 ### BotFather & Token
@@ -41,7 +40,7 @@ Now send `/start` to the bot and see what happens ;)
 ## More Commands
 Read [API reference](https://github.com/yagop/node-telegram-bot-api/blob/release/doc/api.md) carefully, then write your commands in `/bot/commands.js` file.
 
-## Deploy to Heroku
+## Deploy on Heroku
 ```
 $ heroku create
 $ git add .
