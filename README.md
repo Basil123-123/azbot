@@ -1,5 +1,8 @@
 # AZbot
-Create a Telegram bot as easy as clonning this repository. AZbot is a nodejs application using [Express 4](http://expressjs.com/) and [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/).
+[![npm](https://img.shields.io/npm/dt/meness/azbot.svg)]()
+[![npm](https://img.shields.io/npm/v/meness/azbot.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/meness/azbot)
+Create Telegram bots as easy as cloning this repository. AZbot is a nodejs application using [Express 4](http://expressjs.com/) and [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/).
 
 ## Highlights
 * Easy to use
@@ -9,10 +12,7 @@ Create a Telegram bot as easy as clonning this repository. AZbot is a nodejs app
 * good documentation
 * deploy to heroku
 
-## Project Structure
-AZbot has an easy to understand project structure. Read `STRUCTURE.md` file for more information.
-
-## Prequisti
+## Prerequisites
 * Installed [Heroku CLI](https://cli.heroku.com/
 * Installed [Node.js](http://nodejs.org/)
 * Installed NPM
@@ -27,13 +27,18 @@ $ npm install
 $ npm start
 ```
 
-### BotFather and the Token
+### BotFather & Token
 Create your bot using BotFather and save the given token in `.env` for `BOT_TOKEN` key.
 
-### Start the bot
+### Start the Bot
 ```sh
 $ npm start
 ```
+
+Now send `/start` to the bot and see what happens ;)
+
+## More Commands
+Read [API reference](https://github.com/yagop/node-telegram-bot-api/blob/release/doc/api.md) carefully, then write your commands in `/bot/commands.js` file.
 
 ## Deploy to Heroku
 ```
@@ -42,9 +47,10 @@ $ git add .
 $ git push heroku master
 ```
 
-or
+## Credits
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+* [Alireza Eskandarpour Shoferi](https://about.me/meness)
+* [Contributors](https://github.com/meness/verifi/graphs/contributors)
 
-## Author
-* Alireza Eskandarpour Shoferi
+## License
+AZbot is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
