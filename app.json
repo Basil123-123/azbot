@@ -1,0 +1,8 @@
+{
+  "name": "AZbot",
+  "description": "Create a Telegram bot easier than before.",
+  "repository": "https://github.com/meness/azbot",
+  "logo": "https://cdn.rawgit.com/meness/azbot/master/public/img/node.svg",
+  "keywords": ["azbot", "nodejs", "telegram", "bot", "node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
