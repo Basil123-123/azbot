@@ -46,7 +46,7 @@ $ git push heroku master
 ## Credits
 
 * [Alireza Eskandarpour Shoferi](https://about.me/meness)
-* [Contributors](https://github.com/meness/verifi/graphs/contributors)
+* [Contributors](https://github.com/meness/azbot/graphs/contributors)
 
 ## License
 AZbot is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
