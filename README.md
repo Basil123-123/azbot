@@ -6,9 +6,7 @@ AZbot is a [Node.js](https://nodejs.org/) application using [Express](https://ex
 
 ## Highlights
 * Easy to use
-* [Node.js](https://nodejs.org/)
-* [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api/)
-* [Express](https://expressjs.com/)
+* Based on [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), and [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api/)
 * Good documentation
 * Deploying on Heroku
 
