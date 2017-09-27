@@ -1,6 +1,6 @@
 {
   "name": "azbot",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Create a Telegram bot easier than before.",
   "engines": {
     "node": "6.11.1"
